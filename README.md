@@ -1,4 +1,4 @@
-# Hi, I'm Pamela Crisóstomo Yance 👋
+# Hi, I'm Pamela Crisostomo 👋
 
 **Network & Cloud Infrastructure Engineer · Data Engineering · Automation**  
 Lima, Perú 🇵🇪 · +10 years of experience
