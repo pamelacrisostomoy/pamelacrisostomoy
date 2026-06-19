@@ -1,6 +1,6 @@
 # Hi, I'm Pamela Crisostomo 👋
 
-**Infrastructure & Cloud Engineer · Automation · Data Engineering · Systems Architecture**  
+**Infrastructure & Cloud Engineer · Platform Engineering · Automation · Systems Architecture**  
 Lima, Perú 🇵🇪 · +10 years of experience
 
 ---
@@ -13,7 +13,7 @@ Throughout my career, I developed a strong systems-thinking mindset — understa
 
 More recently, I’ve expanded into cloud architecture, automation and data engineering, with growing interest in distributed systems, platform engineering and modern cloud-native architectures.
 
-I hold an AWS Certified Cloud Practitioner certification, a Master’s degree in Strategic Telecommunications Management (UNMSM), a specialization in Analytics & Business Intelligence (Pacífico Business School), and ranked #1 in an AI Data Engineering Bootcamp focused on modern data stack technologies.
+I hold an AWS Certified Cloud Practitioner certification, a Master’s degree in Strategic Telecommunications Management (UNMSM), a specialization in Analytics & Business Intelligence (Pacífico Business School), and was ranked #1 in an AI Data Engineering Bootcamp focused on modern data stack technologies.
 
 ---
 
