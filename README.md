@@ -1,6 +1,6 @@
 # Hi, I'm Pamela Crisostomo 👋
 
-**Network & Cloud Infrastructure Engineer · Data Engineering · Automation**  
+**Infrastructure & Cloud Engineer · Automation · Data Engineering · Systems Architecture**  
 Lima, Perú 🇵🇪 · +10 years of experience
 
 ---
@@ -41,7 +41,7 @@ I hold an AWS Certified Cloud Practitioner certification, a Master’s degree in
 `AWS (CCP certified)` `GCP` `Microsoft Azure / Entra ID`
 
 **Servers & Virtualization**  
-`Windows Server` `Linux Server` `VMware` `Active Directory`
+`Windows Server Administration` `Linux Administration` `VMware` `Active Directory`
 
 **Data Engineering & Automation**  
 `Apache Kafka` `Apache Spark` `Apache Airflow` `Docker` `ETL Pipelines` `Python` `Bash` `Power Automate` `SQL` `Power BI`
