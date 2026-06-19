@@ -28,7 +28,7 @@ I hold an AWS Certified Cloud Practitioner certification, a Master’s degree in
 
 **At San Fernando** I manage the full network stack — WAN, LAN, SD-WAN, OT networks, VPN IPSec, and satellite/microwave links across multiple sites — alongside cloud services on GCP and AWS, Microsoft 365, Active Directory + Entra ID, and perimeter security. I also lead cross-functional technology projects aligned to business continuity and scalability.
 
-**At Eli Lilly (via Stefanini LATAM)** Led regional IT infrastructure operations across Peru, Ecuador, Central America and the Caribbean — managing budgets, vendor relationships, SLAs, a technical team of 4, and end-to-end infrastructure modernization initiatives under ITIL and Agile frameworks.
+**At Eli Lilly (via Stefanini LATAM)** I led regional IT infrastructure operations across Peru, Ecuador, Central America and the Caribbean — managing budgets, vendor relationships, SLAs, a technical team of 4, and end-to-end infrastructure modernization initiatives under ITIL and Agile frameworks.
 
 ---
 
