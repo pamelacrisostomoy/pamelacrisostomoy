@@ -1,17 +1,17 @@
 # Hi, I'm Pamela Crisostomo 👋
 
-**Senior Infrastructure Engineer — expanding into Cloud & Automation**  
+**Cloud & Infrastructure Engineer — building reliable systems through automation and scalable architecture**  
 Lima, Perú 🇵🇪 · +10 years of experience
 
 ---
 
 ## About me
 
-I design, build and operate the infrastructure that critical industries run on.
+I build and operate the systems that keep critical industries running.
 
 For over 10 years, I've worked across energy, pharmaceutical and manufacturing environments where downtime is not just an inconvenience — it directly impacts operations, production and business continuity. That experience shaped the way I approach engineering: focusing on reliability, resilience and long-term sustainability rather than simply making systems work.
 
-My core expertise is infrastructure engineering, networking and high-availability systems, including enterprise networking, IT/OT infrastructure and hybrid cloud environments. Over the last few years, I've been expanding that foundation into cloud engineering, automation and modern distributed systems.
+My background is rooted in infrastructure engineering, networking and hybrid cloud environments, but my interests increasingly sit at the intersection of cloud, automation, distributed systems and platform technologies. I enjoy understanding how complex systems behave, how they scale, and how they can be made more observable, resilient and easier to operate.
 
 More recently, I've been exploring technologies such as Apache Airflow, Kafka and Spark to better understand modern data platforms, orchestration workflows and large-scale automation. I also ranked #1 among participants in a 105-hour AI Data Engineering Bootcamp focused on modern data stack technologies.
 
@@ -85,7 +85,7 @@ I hold an AWS Certified Cloud Practitioner certification, a Master's degree in S
 
 | Repo | Description |
 |------|-------------|
-| [📁 data-engineering-portfolio](https://github.com/pamelacrisostomoy/data-engineering-portfolio) | ETL pipelines and distributed data projects built to automate, observe and scale infrastructure operations. |
+| [📁 data-engineering-portfolio](https://github.com/pamelacrisostomoy/data-engineering-portfolio) | ETL pipelines and distributed data projects built to automate, observe and scale systems and operational workflows.|
 
 ---
 
