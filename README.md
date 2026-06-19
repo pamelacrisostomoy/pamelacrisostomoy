@@ -95,4 +95,4 @@ I hold an AWS Certified Cloud Practitioner certification, a Master's degree in S
 
 ---
 
-*"Building reliable systems today. Designing scalable platforms for tomorrow."*
+*"Open to connecting with people working on cloud, automation and distributed systems."*
