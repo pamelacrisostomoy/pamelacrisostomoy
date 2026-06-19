@@ -1,6 +1,6 @@
 # Hi, I'm Pamela Crisostomo 👋
 
-**Cloud & Infrastructure Engineer — building reliable systems through automation and scalable architecture**  
+**Cloud & Infrastructure Engineer — building reliable systems through automation and scalable platforms**  
 Lima, Perú 🇵🇪 · +10 years of experience
 
 ---
