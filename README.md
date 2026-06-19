@@ -13,9 +13,12 @@ For over 10 years, I've worked across energy, pharmaceutical and manufacturing e
 
 My background is rooted in infrastructure engineering, networking and hybrid cloud environments, but my interests increasingly sit at the intersection of cloud, automation, distributed systems and platform technologies. I enjoy understanding how complex systems behave, how they scale, and how they can be made more observable, resilient and easier to operate.
 
-More recently, I've been exploring technologies such as Apache Airflow, Kafka and Spark to better understand modern data platforms, orchestration workflows and large-scale automation. I also ranked #1 among participants in a 105-hour AI Data Engineering Bootcamp focused on modern data stack technologies.
+More recently, I've been working with technologies such as Apache Airflow, Kafka and Spark to deepen my understanding of modern data platforms, orchestration workflows and large-scale automation. I also ranked #1 among participants in a 105-hour AI Data Engineering Bootcamp focused on modern data stack technologies.
+
+I'm particularly interested in how infrastructure, automation and data platforms come together to create scalable, observable and reliable systems.
 
 I hold an AWS Certified Cloud Practitioner certification, a Master's degree in Strategic Telecommunications Management (UNMSM), and a specialization in Analytics & Business Intelligence (Pacífico Business School).
+
 
 ---
 
