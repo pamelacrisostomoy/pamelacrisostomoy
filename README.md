@@ -21,7 +21,7 @@ I hold an AWS Certified Cloud Practitioner certification, a Master’s degree in
 
 | Period | Role | Company |
 |--------|------|---------|
-| 2023 – present | Infrastructure Administrator | San Fernando |
+| 2023 – present | Senior Infrastructure Engineer | San Fernando |
 | 2019 – 2022 | Infrastructure Lead (Stefanini LATAM) | Eli Lilly and Company |
 | 2018 | ICT Specialist | Programa Nacional de Inversiones en Salud |
 | 2012 – 2016 | IT Analyst | Luz del Sur S.A.A. |
@@ -44,7 +44,7 @@ I hold an AWS Certified Cloud Practitioner certification, a Master’s degree in
 `Windows Server Administration` `Linux Administration` `VMware` `Active Directory`
 
 **Data Engineering & Automation**  
-`Python` `SQL` `Docker` `Apache Airflow` `Apache Kafka` `Apache Spark` `ETL Pipelines` `Bash` `Power Automate` `Power BI`
+`Python` `SQL` `Docker` `ETL Pipelines` `Apache Airflow` `Apache Kafka` `Apache Spark` `Bash` `Power Automate` `Power BI`
 
 **Collaboration & SaaS**  
 `Microsoft 365` `Google Workspace (GSuite)`
@@ -56,12 +56,12 @@ I hold an AWS Certified Cloud Practitioner certification, a Master’s degree in
 
 ## Certifications
 
-- 🏅 AWS Certified Cloud Practitioner
-- 🔄 AI Data Engineer Bootcamp — Datapath (105h) | Ranked #1 among participants
-- 🔒 Introduction to Cybersecurity — Cisco
-- ☁️ Introduction to IoT — Cisco
-- 📋 Scrum Fundamentals Certified (SFC)
-- 🔧 ITIL® Foundations in IT Service Management
+🏅 AWS Certified Cloud Practitioner
+🔄 AI Data Engineer Bootcamp — Datapath (105h) | Ranked #1 among participants
+🔧 ITIL® Foundations in IT Service Management
+📋 Scrum Fundamentals Certified (SFC)
+🔒 Introduction to Cybersecurity — Cisco
+☁️ Introduction to IoT — Cisco
 
 ---
 
