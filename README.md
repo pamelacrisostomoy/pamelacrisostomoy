@@ -83,7 +83,7 @@ I hold an AWS Certified Cloud Practitioner certification, a Master’s degree in
 
 | Repo | Description |
 |------|-------------|
-| [📁 data-engineering-portfolio](https://github.com/pamelacrisostomoy/data-engineering-portfolio) | Engineering projects focused on scalable data pipelines, cloud automation and distributed systems — bridging infrastructure engineering with modern data platforms |
+| [📁 data-engineering-portfolio](https://github.com/pamelacrisostomoy/data-engineering-portfolio) | Engineering projects focused on cloud automation, distributed systems and scalable data pipelines — connecting infrastructure engineering with modern platform architecture. |
 
 ---
 
@@ -93,4 +93,4 @@ I hold an AWS Certified Cloud Practitioner certification, a Master’s degree in
 
 ---
 
-*"Networks carry the data. Engineers make sure it arrives."*
+*"Building reliable systems today. Designing scalable platforms for tomorrow."*
