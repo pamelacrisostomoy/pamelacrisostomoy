@@ -7,11 +7,13 @@ Lima, Perú 🇵🇪 · +10 years of experience
 
 ## About me
 
-With over 10 years of experience, I've designed and operated IT/OT networks and servers in critical environments — building high-availability infrastructure and ensuring the connectivity that keeps operations running. Over time, this foundation expanded into hybrid cloud platforms on GCP and AWS. Throughout my career I've worked across demanding industries — energy, pharmaceuticals, and food manufacturing — where infrastructure reliability is non-negotiable. That experience shaped how I think about systems: resilient, scalable, and built to last.
+With 10+ years of experience in enterprise IT/OT environments, I’ve designed, operated and supported critical infrastructure where availability, resilience and operational continuity are essential. My background spans network architecture, server administration, hybrid cloud environments and infrastructure supporting large-scale operations across energy, pharmaceutical and manufacturing industries.
 
-As data becomes the core asset of every organization, I've been expanding into **data engineering** — bridging the infrastructure layer with data pipelines, real-time processing, and orchestration. The same principles that make a network resilient are what make a data platform trustworthy.
+Over the years, I’ve developed a strong systems-thinking approach: understanding not only how individual components work, but how entire platforms must be designed to remain scalable, reliable and sustainable under real-world operational demands.
 
-I hold an **AWS Certified Cloud Practitioner** certification, a **Master's degree in Strategic Telecommunications Management** (UNMSM), and a specialization in **Analytics & Business Intelligence** at Pacífico Business School.
+Recently, I’ve been expanding into cloud architecture, automation and data engineering — applying the same engineering principles used in infrastructure design to modern data platforms, distributed systems and orchestration workflows. I’m particularly interested in the intersection of cloud infrastructure, automation, platform engineering and scalable architecture.
+
+I hold an AWS Certified Cloud Practitioner certification, a Master’s degree in Strategic Telecommunications Management (UNMSM), a specialization in Analytics & Business Intelligence (Pacífico Business School), and recently ranked #1 in an AI Data Engineering Bootcamp focused on modern data stack technologies.
 
 ---
 
@@ -55,7 +57,7 @@ I hold an **AWS Certified Cloud Practitioner** certification, a **Master's degre
 ## Certifications
 
 - 🏅 AWS Certified Cloud Practitioner
-- 🔄 AI Data Engineer — Datapath (105h) · ETL · Spark · Kafka · Airflow 
+- 🔄 AI Data Engineer Bootcamp — Datapath (105h) | Ranked #1 among participants
 - 🔒 Introduction to Cybersecurity — Cisco
 - ☁️ Introduction to IoT — Cisco
 - 📋 Scrum Fundamentals Certified (SFC)
@@ -81,7 +83,7 @@ I hold an **AWS Certified Cloud Practitioner** certification, a **Master's degre
 
 | Repo | Description |
 |------|-------------|
-| [📁 data-engineering-portfolio](https://github.com/pamelacrisostomoy/data-engineering-portfolio) | ETL pipelines, data engineering projects and automation — Python, Spark, Kafka, Airflow & Cloud |
+| [📁 data-engineering-portfolio](https://github.com/pamelacrisostomoy/data-engineering-portfolio) | Engineering projects focused on scalable data pipelines, cloud automation and distributed systems — bridging infrastructure engineering with modern data platforms |
 
 ---
 
