@@ -7,13 +7,13 @@ Lima, Perú 🇵🇪 · +10 years of experience
 
 ## About me
 
-With 10+ years of experience in enterprise IT/OT environments, I’ve built, operated and supported critical infrastructure supporting large-scale operations across energy, pharmaceutical and manufacturing industries. My background spans network architecture, server administration, hybrid cloud environments and high-availability systems where resilience and operational continuity are essential.
+With 10+ years of experience in enterprise IT/OT environments, I’ve built, operated and supported critical infrastructure across large-scale operations in the energy, pharmaceutical and manufacturing industries. My background spans network architecture, server administration, hybrid cloud environments and high-availability systems where resilience and operational continuity are essential.
 
-Throughout my career, I’ve developed a strong systems-thinking mindset — understanding how complex platforms must be designed to remain scalable, reliable and sustainable under real-world operational demands.
+Throughout my career, I’ve developed a strong systems-thinking mindset — focused on designing complex platforms that remain scalable, reliable and sustainable under real-world operational demands.
 
-More recently, I’ve expanded into cloud architecture and automation, while developing hands-on experience with distributed systems, data pipelines and modern cloud-native architectures.
+More recently, I’ve expanded into cloud architecture and automation, while deepening my expertise in distributed systems, data pipelines and modern cloud-native architectures.
 
-I hold an AWS Certified Cloud Practitioner certification, a Master’s degree in Strategic Telecommunications Management (UNMSM), and a specialization in Analytics & Business Intelligence (Pacífico Business School). I recently ranked #1 in an AI Data Engineering Bootcamp focused on modern data stack technologies.
+I hold an AWS Certified Cloud Practitioner certification, a Master’s degree in Strategic Telecommunications Management (UNMSM), and a specialization in Analytics & Business Intelligence (Pacífico Business School). Recently, I ranked #1 among participants in an AI Data Engineering Bootcamp focused on modern data stack technologies.
 
 ---
 
