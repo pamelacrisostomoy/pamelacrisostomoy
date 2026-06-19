@@ -7,13 +7,13 @@ Lima, Perú 🇵🇪 · +10 years of experience
 
 ## About me
 
-With 10+ years of experience in enterprise IT/OT environments, I’ve designed, operated and supported critical infrastructure where availability, resilience and operational continuity are essential. My background spans network architecture, server administration, hybrid cloud environments and infrastructure supporting large-scale operations across energy, pharmaceutical and manufacturing industries.
+With 10+ years of experience in enterprise IT/OT environments, I’ve built and operated critical infrastructure supporting large-scale operations across energy, pharmaceutical and manufacturing industries. My background spans network architecture, server administration, hybrid cloud environments and high-availability systems where resilience and operational continuity are essential.
 
-Over the years, I developed a systems-thinking mindset: understanding not only individual components, but how entire platforms must be designed for scalability, resilience and long-term operational sustainability.
+Throughout my career, I developed a strong systems-thinking mindset — understanding how complex platforms must be designed to remain scalable, reliable and sustainable under real-world operational demands.
 
-Over the last few years, I’ve expanded my focus into cloud architecture, automation and data engineering — applying the same engineering principles used in infrastructure design to modern data platforms, distributed systems and orchestration workflows. I’m particularly interested in the intersection of cloud infrastructure, automation, platform engineering and scalable architecture.
+More recently, I’ve expanded into cloud architecture, automation and data engineering, with growing interest in distributed systems, platform engineering and modern cloud-native architectures.
 
-I hold an AWS Certified Cloud Practitioner certification, a Master’s degree in Strategic Telecommunications Management (UNMSM), and a specialization in Analytics & Business Intelligence (Pacífico Business School). I also ranked #1 in an AI Data Engineering Bootcamp focused on modern data stack technologies.
+I hold an AWS Certified Cloud Practitioner certification, a Master’s degree in Strategic Telecommunications Management (UNMSM), a specialization in Analytics & Business Intelligence (Pacífico Business School), and ranked #1 in an AI Data Engineering Bootcamp focused on modern data stack technologies.
 
 ---
 
