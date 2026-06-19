@@ -15,8 +15,6 @@ My background is rooted in infrastructure engineering, networking and hybrid clo
 
 More recently, I've been working with technologies such as Apache Airflow, Kafka and Spark to deepen my understanding of modern data platforms, orchestration workflows and large-scale automation. I also ranked #1 among participants in a 105-hour AI Data Engineering Bootcamp focused on modern data stack technologies.
 
-I'm particularly interested in how infrastructure, automation and data platforms come together to create scalable, observable and reliable systems.
-
 I hold the AWS Certified Cloud Practitioner certification, a Master's degree in Strategic Telecommunications Management (UNMSM), and a specialization in Analytics & Business Intelligence (Pacífico Business School).
 
 
