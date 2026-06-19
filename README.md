@@ -9,9 +9,9 @@ Lima, Perú 🇵🇪 · +10 years of experience
 
 With 10+ years of experience in enterprise IT/OT environments, I’ve designed, operated and supported critical infrastructure where availability, resilience and operational continuity are essential. My background spans network architecture, server administration, hybrid cloud environments and infrastructure supporting large-scale operations across energy, pharmaceutical and manufacturing industries.
 
-Over the years, I’ve developed a strong systems-thinking approach: understanding not only how individual components work, but how entire platforms must be designed to remain scalable, reliable and sustainable under real-world operational demands.
+Over the years, I developed a systems-thinking mindset: understanding not only individual components, but how entire platforms must be designed for scalability, resilience and long-term operational sustainability.
 
-Recently, I’ve been expanding into cloud architecture, automation and data engineering — applying the same engineering principles used in infrastructure design to modern data platforms, distributed systems and orchestration workflows. I’m particularly interested in the intersection of cloud infrastructure, automation, platform engineering and scalable architecture.
+Over the last few years, I’ve expanded my focus into cloud architecture, automation and data engineering — applying the same engineering principles used in infrastructure design to modern data platforms, distributed systems and orchestration workflows. I’m particularly interested in the intersection of cloud infrastructure, automation, platform engineering and scalable architecture.
 
 I hold an AWS Certified Cloud Practitioner certification, a Master’s degree in Strategic Telecommunications Management (UNMSM), a specialization in Analytics & Business Intelligence (Pacífico Business School), and recently ranked #1 in an AI Data Engineering Bootcamp focused on modern data stack technologies.
 
@@ -28,7 +28,7 @@ I hold an AWS Certified Cloud Practitioner certification, a Master’s degree in
 
 **At San Fernando** I manage the full network stack — WAN, LAN, SD-WAN, OT networks, VPN IPSec, and satellite/microwave links across multiple sites — alongside cloud services on GCP and AWS, Microsoft 365, Active Directory + Entra ID, and perimeter security. I also lead cross-functional technology projects aligned to business continuity and scalability.
 
-**At Eli Lilly (via Stefanini LATAM)** I led regional IT infrastructure across Peru, Ecuador, Central America and the Caribbean — managing budgets, SLAs, a technical team of 4, and end-to-end platform modernization under ITIL and Agile frameworks.
+**At Eli Lilly (via Stefanini LATAM)** Led regional IT infrastructure operations across Peru, Ecuador, Central America and the Caribbean — managing budgets, vendor relationships, SLAs, a technical team of 4, and end-to-end infrastructure modernization initiatives under ITIL and Agile frameworks.
 
 ---
 
@@ -37,14 +37,14 @@ I hold an AWS Certified Cloud Practitioner certification, a Master’s degree in
 **Networking**  
 `SD-WAN` `LAN / WLAN` `Data Center` `OT Networks` `Firewalls / UTM` `DNS` `DHCP` `Fiber Optics` `Microwave & Satellite Links`
 
-**Cloud**  
-`AWS (CCP certified)` `GCP` `Microsoft Azure / Entra ID`
+**Cloud & Identity**  
+`AWS (CCP certified)` `GCP` `Microsoft Azure` `Microsoft Entra ID`
 
 **Servers & Virtualization**  
 `Windows Server Administration` `Linux Administration` `VMware` `Active Directory`
 
 **Data Engineering & Automation**  
-`Apache Kafka` `Apache Spark` `Apache Airflow` `Docker` `ETL Pipelines` `Python` `Bash` `Power Automate` `SQL` `Power BI`
+`Python` `SQL` `Docker` `Apache Airflow` `Apache Kafka` `Apache Spark` `ETL Pipelines` `Bash` `Power Automate` `Power BI`
 
 **Collaboration & SaaS**  
 `Microsoft 365` `Google Workspace (GSuite)`
