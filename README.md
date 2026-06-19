@@ -11,7 +11,7 @@ With 10+ years of experience in enterprise IT/OT environments, I’ve built and 
 
 Throughout my career, I developed a strong systems-thinking mindset — understanding how complex platforms must be designed to remain scalable, reliable and sustainable under real-world operational demands.
 
-More recently, I’ve expanded into cloud architecture, automation and data engineering, with growing interest in distributed systems, platform engineering and modern cloud-native architectures.
+More recently, I’ve expanded into cloud architecture and automation, while developing hands-on experience with distributed systems, data pipelines and modern cloud-native architectures.
 
 I hold an AWS Certified Cloud Practitioner certification, a Master’s degree in Strategic Telecommunications Management (UNMSM), a specialization in Analytics & Business Intelligence (Pacífico Business School), and was ranked #1 in an AI Data Engineering Bootcamp focused on modern data stack technologies.
 
