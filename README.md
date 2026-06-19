@@ -17,7 +17,7 @@ More recently, I've been working with technologies such as Apache Airflow, Kafka
 
 I'm particularly interested in how infrastructure, automation and data platforms come together to create scalable, observable and reliable systems.
 
-I hold an AWS Certified Cloud Practitioner certification, a Master's degree in Strategic Telecommunications Management (UNMSM), and a specialization in Analytics & Business Intelligence (Pacífico Business School).
+I hold the AWS Certified Cloud Practitioner certification, a Master's degree in Strategic Telecommunications Management (UNMSM), and a specialization in Analytics & Business Intelligence (Pacífico Business School).
 
 
 ---
