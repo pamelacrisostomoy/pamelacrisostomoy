@@ -1,19 +1,21 @@
 # Hi, I'm Pamela Crisostomo 👋
 
-**Infrastructure & Cloud Engineer · Platform Engineering · Automation · Systems Architecture**  
+**Senior Infrastructure Engineer — expanding into Cloud & Automation**  
 Lima, Perú 🇵🇪 · +10 years of experience
 
 ---
 
 ## About me
 
-With 10+ years of experience in enterprise IT/OT environments, I’ve built, operated and supported critical infrastructure across large-scale operations in the energy, pharmaceutical and manufacturing industries. My background spans network architecture, server administration, hybrid cloud environments and high-availability systems where resilience and operational continuity are essential.
+I design, build and operate the infrastructure that critical industries run on.
 
-Throughout my career, I’ve developed a strong systems-thinking mindset — focused on designing complex platforms that remain scalable, reliable and sustainable under real-world operational demands.
+For over 10 years, I've worked across energy, pharmaceutical and manufacturing environments where downtime is not just an inconvenience — it directly impacts operations, production and business continuity. That experience shaped the way I approach engineering: focusing on reliability, resilience and long-term sustainability rather than simply making systems work.
 
-More recently, I’ve expanded into cloud architecture and automation, while deepening my expertise in distributed systems, data pipelines and modern cloud-native architectures.
+My core expertise is infrastructure engineering, networking and high-availability systems, including enterprise networking, IT/OT infrastructure and hybrid cloud environments. Over the last few years, I've been expanding that foundation into cloud engineering, automation and modern distributed systems.
 
-I hold an AWS Certified Cloud Practitioner certification, a Master’s degree in Strategic Telecommunications Management (UNMSM), and a specialization in Analytics & Business Intelligence (Pacífico Business School). Recently, I ranked #1 among participants in an AI Data Engineering Bootcamp focused on modern data stack technologies.
+More recently, I've been exploring technologies such as Apache Airflow, Kafka and Spark to better understand modern data platforms, orchestration workflows and large-scale automation. I also ranked #1 among participants in a 105-hour AI Data Engineering Bootcamp focused on modern data stack technologies.
+
+I hold an AWS Certified Cloud Practitioner certification, a Master's degree in Strategic Telecommunications Management (UNMSM), and a specialization in Analytics & Business Intelligence (Pacífico Business School).
 
 ---
 
@@ -26,9 +28,9 @@ I hold an AWS Certified Cloud Practitioner certification, a Master’s degree in
 | 2018 | ICT Specialist | Programa Nacional de Inversiones en Salud |
 | 2012 – 2016 | IT Analyst | Luz del Sur S.A.A. |
 
-**At San Fernando**, I manage the full network stack — WAN, LAN, SD-WAN, OT networks, VPN IPSec, and satellite/microwave links across multiple sites — alongside cloud services on GCP and AWS, Microsoft 365, Active Directory + Entra ID, and perimeter security. I also lead cross-functional infrastructure and digital transformation initiatives aligned to business continuity, scalability and operational resilience.
+**At San Fernando**, I lead the operation and evolution of enterprise network and infrastructure environments across multiple sites, including WAN, LAN, SD-WAN, OT networks, VPN IPSec, satellite and microwave communications. I also manage hybrid cloud services (AWS and GCP), Microsoft 365, Active Directory + Entra ID, and perimeter security, supporting business continuity and operational resilience.
 
-**At Eli Lilly (via Stefanini LATAM)**, I led regional IT infrastructure operations across Peru, Ecuador, Central America and the Caribbean — managing budgets, vendor relationships, SLAs, a technical team of 4, and end-to-end infrastructure modernization initiatives under ITIL and Agile frameworks.
+**At Eli Lilly (via Stefanini LATAM)**, I led regional IT infrastructure operations across Peru, Ecuador, Central America and the Caribbean — managing budgets, vendor relationships, SLAs, a technical team of 4, and infrastructure modernization initiatives under ITIL and Agile frameworks.
 
 ---
 
@@ -83,7 +85,7 @@ I hold an AWS Certified Cloud Practitioner certification, a Master’s degree in
 
 | Repo | Description |
 |------|-------------|
-| [📁 data-engineering-portfolio](https://github.com/pamelacrisostomoy/data-engineering-portfolio) | Engineering projects focused on cloud automation, distributed systems and scalable data pipelines — bridging infrastructure engineering with modern cloud platforms. |
+| [📁 data-engineering-portfolio](https://github.com/pamelacrisostomoy/data-engineering-portfolio) | ETL pipelines and distributed data projects built to automate, observe and scale infrastructure operations. |
 
 ---
 
