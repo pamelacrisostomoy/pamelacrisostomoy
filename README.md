@@ -7,13 +7,13 @@ Lima, Perú 🇵🇪 · +10 years of experience
 
 ## About me
 
-With 10+ years of experience in enterprise IT/OT environments, I’ve built and operated critical infrastructure supporting large-scale operations across energy, pharmaceutical and manufacturing industries. My background spans network architecture, server administration, hybrid cloud environments and high-availability systems where resilience and operational continuity are essential.
+With 10+ years of experience in enterprise IT/OT environments, I’ve built, operated and supported critical infrastructure supporting large-scale operations across energy, pharmaceutical and manufacturing industries. My background spans network architecture, server administration, hybrid cloud environments and high-availability systems where resilience and operational continuity are essential.
 
-Throughout my career, I developed a strong systems-thinking mindset — understanding how complex platforms must be designed to remain scalable, reliable and sustainable under real-world operational demands.
+Throughout my career, I’ve developed a strong systems-thinking mindset — understanding how complex platforms must be designed to remain scalable, reliable and sustainable under real-world operational demands.
 
 More recently, I’ve expanded into cloud architecture and automation, while developing hands-on experience with distributed systems, data pipelines and modern cloud-native architectures.
 
-I hold an AWS Certified Cloud Practitioner certification, a Master’s degree in Strategic Telecommunications Management (UNMSM), a specialization in Analytics & Business Intelligence (Pacífico Business School), and was ranked #1 in an AI Data Engineering Bootcamp focused on modern data stack technologies.
+I hold an AWS Certified Cloud Practitioner certification, a Master’s degree in Strategic Telecommunications Management (UNMSM), and a specialization in Analytics & Business Intelligence (Pacífico Business School). I recently ranked #1 in an AI Data Engineering Bootcamp focused on modern data stack technologies.
 
 ---
 
@@ -26,9 +26,9 @@ I hold an AWS Certified Cloud Practitioner certification, a Master’s degree in
 | 2018 | ICT Specialist | Programa Nacional de Inversiones en Salud |
 | 2012 – 2016 | IT Analyst | Luz del Sur S.A.A. |
 
-**At San Fernando** I manage the full network stack — WAN, LAN, SD-WAN, OT networks, VPN IPSec, and satellite/microwave links across multiple sites — alongside cloud services on GCP and AWS, Microsoft 365, Active Directory + Entra ID, and perimeter security. I also lead cross-functional infrastructure and digital transformation initiatives aligned to business continuity, scalability and operational resilience.
+**At San Fernando**, I manage the full network stack — WAN, LAN, SD-WAN, OT networks, VPN IPSec, and satellite/microwave links across multiple sites — alongside cloud services on GCP and AWS, Microsoft 365, Active Directory + Entra ID, and perimeter security. I also lead cross-functional infrastructure and digital transformation initiatives aligned to business continuity, scalability and operational resilience.
 
-**At Eli Lilly (via Stefanini LATAM)** I led regional IT infrastructure operations across Peru, Ecuador, Central America and the Caribbean — managing budgets, vendor relationships, SLAs, a technical team of 4, and end-to-end infrastructure modernization initiatives under ITIL and Agile frameworks.
+**At Eli Lilly (via Stefanini LATAM)**, I led regional IT infrastructure operations across Peru, Ecuador, Central America and the Caribbean — managing budgets, vendor relationships, SLAs, a technical team of 4, and end-to-end infrastructure modernization initiatives under ITIL and Agile frameworks.
 
 ---
 
@@ -38,7 +38,7 @@ I hold an AWS Certified Cloud Practitioner certification, a Master’s degree in
 `LAN / WLAN` `SD-WAN` `Data Center Networking` `OT Networks` `Firewalls / UTM` `DNS / DHCP` `Fiber Optics` `Microwave & Satellite Links`
 
 **Cloud & Identity**  
-`AWS (CCP certified)` `GCP` `Microsoft Azure` `Microsoft Entra ID`
+`AWS` `GCP` `Microsoft Azure` `Microsoft Entra ID`
 
 **Servers & Virtualization**  
 `Windows Server Administration` `Linux Administration` `VMware` `Active Directory`
@@ -87,7 +87,7 @@ I hold an AWS Certified Cloud Practitioner certification, a Master’s degree in
 
 ---
 
-## Connect
+## Let’s connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Pamela_Crisóstomo_Yance-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/pamela-rosa-crisostomo-yance)
 
